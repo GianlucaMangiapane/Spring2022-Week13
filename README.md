@@ -1,11 +1,11 @@
 # MUSA 650: Machine Learning in Remote Sensing
 
-## Week13: Data collection and preparation for DL applications
+## Week13: DL Applications, Data Collection and Preparation
 
 This repository contains:
 
 - [Example application - Data preparation for road segmentation](DataPrepExample_Skeyenet)
-- [DescartesLab GeoVisual Search for annotation of images](https://medium.com/descarteslabs-team/annotating-imagery-at-scale-with-geovisual-search-97a7960f257f)
+- [DescartesLab GeoVisual Search](https://medium.com/descarteslabs-team/annotating-imagery-at-scale-with-geovisual-search-97a7960f257f)
 - [Orbital Insight Platform](https://orbitalinsight.com/geospatial-technology)
 - [Eagleview Platform](https://www.eagleview.com/product/eagleview-reveal/)
 - [Spaceknow Platform](https://spaceknow.com)
